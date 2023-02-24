@@ -1,0 +1,4 @@
+﻿  ATM Banking Machine.cpp
+C:\Users\iremp\source\repos\ATM Banking Machine\ATM Banking Machine\ATM Banking Machine.cpp(19,8): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\iremp\source\repos\ATM Banking Machine\ATM Banking Machine\ATM Banking Machine.cpp(52): warning C4715: 'withdraw': tüm denetim yolları değer döndürmez
+  ATM Banking Machine.vcxproj -> C:\Users\iremp\source\repos\ATM Banking Machine\x64\Debug\ATM Banking Machine.exe
